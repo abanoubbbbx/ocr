@@ -1,0 +1,7 @@
+discord.py
+paddleocr
+paddlepaddle==2.5.2
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
